@@ -6,3 +6,10 @@ mlproject.egg-info/dependency_links.txt
 mlproject.egg-info/requires.txt
 mlproject.egg-info/top_level.txt
 src/__init__.py
+src/execption.py
+src/logger.py
+src/utils.py
+src/Components/__init__.py
+src/Components/data_ingestion.py
+src/Components/data_transformation.py
+src/Components/model_trainer.py
