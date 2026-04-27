@@ -1,0 +1,9 @@
+[ 2026-04-27 12:38:29,771 ] 78 root - INFO - Read train and test data completed
+[ 2026-04-27 12:38:29,771 ] 79 root - INFO - Obtaining preprocessing object
+[ 2026-04-27 12:38:29,772 ] 58 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2026-04-27 12:38:29,772 ] 59 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2026-04-27 12:38:29,774 ] 91 root - INFO - Applying preprocessing object on train and test data
+[ 2026-04-27 12:38:29,787 ] 106 root - INFO - Saving preprocessing object
+[ 2026-04-27 12:38:29,788 ] 37 root - INFO - Splitting training and test input data
+[ 2026-04-27 12:39:17,516 ] 111 root - INFO - Best model found: Linear Regression
+[ 2026-04-27 12:39:17,517 ] 112 root - INFO - Best model R2 score: 0.8804332983749565
